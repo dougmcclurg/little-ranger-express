@@ -1,0 +1,23 @@
+{
+  "name": "little-ranger-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougmcclurg/little-ranger-express.git"
+  },
+  "author": "doug mcclurg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougmcclurg/little-ranger-express/issues"
+  },
+  "homepage": "https://github.com/dougmcclurg/little-ranger-express"
+}
